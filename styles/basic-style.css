@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(121,9,109,0.8939950980392157) 22%, rgba(0,212,255,0.9332107843137255) 100%);
+}
+
+
+h1 {
+    width: 50%;
+    margin: 1.5% auto;
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Courier New', sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    border: 2px solid black;
+}
+
+ul, ol {
+    width: 50%;
+    margin: 2% auto;
+    border: 2px solid black;
+    padding: auto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive, sans-serif;
+}
+
+ul li, ol li {
+    padding: 5%;
+    text-align: center;
+}
+
+ul li a {
+    color: yellow;
+}
+
+
+ul li a:hover {
+    color: red;
+}
