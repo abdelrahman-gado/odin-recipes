@@ -10,3 +10,4 @@ In this project, I applied what i learned from the foundation path which is:
   -  paragraphs
   -  lists
   -  links and images
+- CSS
