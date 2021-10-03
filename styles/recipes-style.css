@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 1% auto;
+}
+
+h2 {
+    color: white;
+    margin: 1% auto;
+    width: 50%;
+    font-size: 32px;
+    border: 2px dashed white;
+    text-align: center;
+    padding: 2%;
+}
+
+p {
+    width: 50%;
+    margin: 2% auto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 1%;
+}
