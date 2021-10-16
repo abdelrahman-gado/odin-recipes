@@ -11,3 +11,5 @@ In this project, I applied what i learned from the foundation path which is:
   -  lists
   -  links and images
 - CSS
+
+A live demo of the project is found at https://abdelrahman-gado.github.io/odin-recipes/
